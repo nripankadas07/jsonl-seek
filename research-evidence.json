@@ -1,0 +1,160 @@
+{
+  "observed_utc": "2026-10-05T06:07:38.257Z",
+  "queries": [
+    {
+      "name": "jsonl-seek",
+      "query": "jsonl",
+      "url": "https://api.github.com/search/repositories?q=jsonl&sort=stars&order=desc&per_page=10",
+      "observed_utc": "2026-10-05T06:06:58.652340+00:00",
+      "results": [
+        {
+          "full_name": "Textualize/toolong",
+          "html_url": "https://github.com/Textualize/toolong",
+          "stargazers_count": 3951,
+          "pushed_at": "2024-08-05T19:29:28Z"
+        },
+        {
+          "full_name": "neilotoole/sq",
+          "html_url": "https://github.com/neilotoole/sq",
+          "stargazers_count": 2572,
+          "pushed_at": "2026-10-03T23:14:21Z"
+        },
+        {
+          "full_name": "noborus/trdsql",
+          "html_url": "https://github.com/noborus/trdsql",
+          "stargazers_count": 2174,
+          "pushed_at": "2026-08-29T22:34:11Z"
+        },
+        {
+          "full_name": "KyleBing/english-vocabulary",
+          "html_url": "https://github.com/KyleBing/english-vocabulary",
+          "stargazers_count": 2033,
+          "pushed_at": "2026-09-30T06:11:23Z"
+        },
+        {
+          "full_name": "zaach/jsonlint",
+          "html_url": "https://github.com/zaach/jsonlint",
+          "stargazers_count": 1990,
+          "pushed_at": "2022-07-12T19:08:22Z"
+        },
+        {
+          "full_name": "digitalbazaar/jsonld.js",
+          "html_url": "https://github.com/digitalbazaar/jsonld.js",
+          "stargazers_count": 1814,
+          "pushed_at": "2026-03-04T16:43:23Z"
+        },
+        {
+          "full_name": "Seldaek/jsonlint",
+          "html_url": "https://github.com/Seldaek/jsonlint",
+          "stargazers_count": 1323,
+          "pushed_at": "2026-10-01T08:17:55Z"
+        },
+        {
+          "full_name": "daaain/claude-code-log",
+          "html_url": "https://github.com/daaain/claude-code-log",
+          "stargazers_count": 1239,
+          "pushed_at": "2026-10-04T15:32:36Z"
+        },
+        {
+          "full_name": "Dicklesworthstone/beads_rust",
+          "html_url": "https://github.com/Dicklesworthstone/beads_rust",
+          "stargazers_count": 1114,
+          "pushed_at": "2026-10-02T06:20:55Z"
+        },
+        {
+          "full_name": "blacknon/hwatch",
+          "html_url": "https://github.com/blacknon/hwatch",
+          "stargazers_count": 1080,
+          "pushed_at": "2026-08-30T13:34:02Z"
+        }
+      ]
+    }
+  ],
+  "comparables": [
+    {
+      "repository": "jqlang/jq",
+      "metadata": {
+        "url": "https://github.com/jqlang/jq",
+        "stars": 35745,
+        "updated": "2026-10-01T06:39:24Z",
+        "license": "NOASSERTION",
+        "default_branch": "master"
+      },
+      "readme_url": "https://github.com/jqlang/jq/blob/master/README.md",
+      "issue_samples": [
+        {
+          "title": "Add haspath builtin to check for existing paths",
+          "url": "https://github.com/jqlang/jq/pull/3653",
+          "created": "2026-10-05T03:56:24Z"
+        },
+        {
+          "title": "fix: reconstruct streamed values after ancestor type changes",
+          "url": "https://github.com/jqlang/jq/pull/3652",
+          "created": "2026-10-04T14:13:35Z"
+        },
+        {
+          "title": "test: check --run-tests failure exit statuses (#2765)",
+          "url": "https://github.com/jqlang/jq/pull/3650",
+          "created": "2026-10-03T01:13:35Z"
+        }
+      ]
+    },
+    {
+      "repository": "01mf02/jaq",
+      "metadata": {
+        "url": "https://github.com/01mf02/jaq",
+        "stars": 3787,
+        "updated": "2026-10-02T09:46:28Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme_url": "https://github.com/01mf02/jaq/blob/main/README.md",
+      "issue_samples": [
+        {
+          "title": "Compile pipes to sequences",
+          "url": "https://github.com/01mf02/jaq/pull/471",
+          "created": "2026-10-02T09:43:22Z"
+        },
+        {
+          "title": "Is it possible to expose the parse tree or supply a tree walker?",
+          "url": "https://github.com/01mf02/jaq/issues/470",
+          "created": "2026-09-28T18:42:53Z"
+        },
+        {
+          "title": "Improve handling of comma sequences",
+          "url": "https://github.com/01mf02/jaq/pull/469",
+          "created": "2026-09-28T09:43:18Z"
+        }
+      ]
+    },
+    {
+      "repository": "Textualize/toolong",
+      "metadata": {
+        "url": "https://github.com/Textualize/toolong",
+        "stars": 3951,
+        "updated": "2024-08-05T19:29:28Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme_url": "https://github.com/Textualize/toolong/blob/main/README.md",
+      "issue_samples": [
+        {
+          "title": "\u9080\u8bf7 toolong \u52a0\u5165 GithubStarMate\uff0c\u8ba9\u66f4\u591a\u4eba\u53d1\u73b0\u4f60\u7684\u4f5c\u54c1",
+          "url": "https://github.com/Textualize/toolong/issues/80",
+          "created": "2026-10-01T04:18:12Z"
+        },
+        {
+          "title": "Add suspend functionality to keybindings for `toolong`",
+          "url": "https://github.com/Textualize/toolong/pull/79",
+          "created": "2026-07-09T14:06:54Z"
+        },
+        {
+          "title": "Add SIGTSTP / suspend / Control-Z / ^Z handling",
+          "url": "https://github.com/Textualize/toolong/issues/78",
+          "created": "2026-07-09T13:39:53Z"
+        }
+      ]
+    }
+  ],
+  "moved_source_map_monorepo": null
+}
